@@ -1,4 +1,4 @@
- **Sobre o Jogo MinhocãoII com temáticas para o escape Game
+ **Sobre o Jogo MinhocãoII com temáticas para o escape Game**
 
 • Um grupo será trancado em uma sala e terá um tempo determinado para encontrar a solução de sua saída.
 
@@ -10,17 +10,17 @@
 
 • Os jogos são projetados para serem uma experiência de entretenimento, desafio intelectual e também como uma ferramenta de desenvolvimento humano.
 
-**Sobre os Jogadores
+**Sobre os Jogadores**
 
 • Jogadores de todas as idades são bem-vindos, porém menores de 18 anos devem estar acompanhados pelos pais ou responsável autorizado.
 
 • Os jogadores deverão ser alunos presenciais da Unicesumar Campus Maringá.
 
-**Sobre as Sessões
+**Sobre as Sessões**
 
 • A ocupação da sala fica disponível até completar o seu máximo de jogadores. Você poderá jogar com desconhecidos e fazer novas amizades.
 
-**Como Funciona
+**Como Funciona**
 
 • Os jogadores deverão chegar com 15 minutos de antecedência ao horário agendado para receber as instruções sobre cada aventura e assinar o termo de compromisso.
 
@@ -34,11 +34,11 @@
 
 • Após saírem da aventura, é tirada uma foto dos jogadores, a qual é publicada nas redes sociais.
 
-**Como Adquirir
+**Como Adquirir**
 
 • Os participantes devem adquirir ingressos através do site. Durante a inscrição no site, deve-se escolher a aventura que deseja jogar (respeitando o número mínimo e máximo de participantes).
 
-**Regras Gerais
+**Regras Gerais**
 
 • Não é permitido entrar com bebidas e alimentos nas salas das aventuras.
 
@@ -54,11 +54,11 @@
 
 • Respeitar as indicações de “não tocar” e “não subir” coladas em alguns objetos da sala.
 
-**Organização Geral
+**Organização Geral**
 
 Docente: Profª Cláudia Pinheiro
 
-**Organização Temática
+**Organização Temática**
 
 Profª Waldecy Leonel
 
@@ -68,7 +68,7 @@ Profª Graziella Batista Silva
 
 Graduando: Anderson Assumpção
 
-**Organização Técnica
+**Organização Técnica**
 
 Prof. Marcello Bonfim
 
@@ -78,7 +78,7 @@ Prof. Aparecido Vilela Junior
 
 Graduandos: Eloisa Potrich e Bruno Arruda
 
-**Coordenação de Sala
+**Coordenação de Sala**
 
 Profª Alexandra Perdigão – Nutrição
 
