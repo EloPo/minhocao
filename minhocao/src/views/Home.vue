@@ -17,12 +17,6 @@
               @click="abrirPaginaDasSalas($event)"
               value="Entrar"
             >
-            <input
-              type="button"
-              class="botao-regulamento"
-              @click="abrirRegulamento($event)"
-              value="Regulamento"
-            >
           </div>
       </v-layout>
     </v-container>
