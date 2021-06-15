@@ -31,9 +31,6 @@ export default {
     abrirPaginaDasSalas() {
       this.$router.push('/salas');
     },
-    abrirRegulamento() {
-      this.$router.push('/regulamento');
-    },
   },
 };
 </script>
@@ -162,22 +159,4 @@ export default {
     font-family: 'Montserrat', sans-serif;
   }
 
-  .botao-regulamento{
-    position: absolute;
-    top: 75%;
-    left: 50%;
-    color: white;
-    background-color: #1E1F27;
-    opacity: 0.5;
-    width: 250px;
-    height: 50px;
-    text-align: center;
-    border-radius: 10px;
-    border-bottom-color: #704418;
-    font-style: normal;
-    letter-spacing: 0.03em;
-    font-weight: bold;
-    font-size: 24px;
-    font-family: 'Montserrat', sans-serif;
-  }
 </style>
